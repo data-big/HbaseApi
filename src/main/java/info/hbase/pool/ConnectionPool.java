@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 连接池接口
  *
- * @author wanggang
+ * @author gy
  *
  * @param <T>
  */
