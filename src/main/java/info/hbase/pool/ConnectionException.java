@@ -3,7 +3,7 @@ package info.hbase.pool;
 /**
  * 连接异常
  *
- * @author wanggang
+ * @author gy
  *
  */
 public class ConnectionException extends RuntimeException {
