@@ -7,7 +7,7 @@ import org.apache.commons.pool2.PooledObjectFactory;
 /**
  * 连接工厂接口
  *
- * @author wanggang
+ * @author gy
  *
  * @param <T>
  */
